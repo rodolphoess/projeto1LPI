@@ -1,3 +1,13 @@
+# Ignora o diretorio lib
+
+lib/*
+
+
+
+# Ignora todos os binarios/executaveis
+
+bin/*
+
 # Compiled Object files
 *.slo
 *.lo
